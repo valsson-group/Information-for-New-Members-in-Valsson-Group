@@ -1,4 +1,4 @@
-# Introductory Information for New Members in Valsson Group
+# Information for New Members in Valsson Group
 Welcome to Valsson Group! Here are some useful instructions, tutorials, and materials that will be helpful in your research.
 
 ## Set your Cruntch4 account:
