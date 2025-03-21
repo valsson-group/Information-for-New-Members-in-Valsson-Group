@@ -1,22 +1,25 @@
 # Introductory-Training-for-New-Members-in-Valsson-Group
 Welcome to Valsson Group! Here are some useful instructions, tutorials, and materials that will be helpful in your research.
 
-
 ## Set your Cruntch4 account:
 Email Dr. Navneet Khetrapal (Navneet.Khetrapal@unt.edu) to request an account on cruntch4, the high-performance system where we perform our simulations.
 You should let him know you are a new member in our group and send him your UNT EUID as this will be your username on cruntch4. Please, do not forget to cc Dr. Valsson in this email.
-### To access cruntch4 from your laptop, you need to use a terminal program such as:
-### Putty (on Windows): 
-    https://www.putty.org/ 
-### MobaXterm (on Windows): 
-    https://mobaxterm.mobatek.net/ 
-### iTerm2 (on Apple): 
-    https://iterm2.com/ 
 
-### If you are inside the UNT network, you can connect directly to cruntch4. If you are outside the UNT network, you need to connect to the UNT VPN first, see [here](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn)
+### Accessing cruntch4
+To access cruntch4 from your laptop, you need to use a terminal program such as:
+- Putty (on Windows): https://www.putty.org/
+- MobaXterm (on Windows): https://mobaxterm.mobatek.net/ 
+- iTerm2 (on Apple): https://iterm2.com/ 
 
-### Establish SSH Keygen to access to Cruntch4:
-    https://www.ssh.com/academy/ssh/keygen  
+If you are inside the UNT network, you can connect directly to cruntch4. 
+
+If you are outside the UNT network, you need to connect to the UNT VPN first, see:   
+https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn
+
+### Setting up a ssh key for cruntch4
+To set up a ssh key for cruntch4, follow the instructions here:     
+https://www.ssh.com/academy/ssh/keygen
+
 ## Perform the following tutorials to understand how to navigate in the terminal: 
 ### VIM tutorial: 
     https://openvim.com/  
