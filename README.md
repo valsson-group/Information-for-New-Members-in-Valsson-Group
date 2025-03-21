@@ -13,8 +13,7 @@ You should let him know you are a new member in our group and send him your UNT 
 ### iTerm2 (on Apple): 
     https://iterm2.com/ 
 
-### If you are inside the UNT network, you can connect directly to cruntch4. If you are outside the UNT network, you need to connect to the UNT VPN first, see
-    https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn
+### If you are inside the UNT network, you can connect directly to cruntch4. If you are outside the UNT network, you need to connect to the UNT VPN first, see [here](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn)
 
 ### Establish SSH Keygen to access to Cruntch4:
     https://www.ssh.com/academy/ssh/keygen  
@@ -31,11 +30,15 @@ You should let him know you are a new member in our group and send him your UNT 
 ### Python scripting: 
     https://education.molssi.org/python_scripting_cms/ 
 ## How to open a Jupyter Notebook in Cruntch4:
-### Open a Jupyter notebook while login o Cruntch4: 
-    jupyter notebook --no browser
+### Open a Jupyter notebook while logged onto Cruntch4: 
+```
+jupyter notebook --no browser
+```
 Copy the link given in the terminal.
 ### Then, open a different terminal window and use the following command:
-    ssh -L :8888:localhost:8888 cruntch4
+```
+ssh -L :8888:localhost:8888 cruntch4
+```
 Replace the '8888' numbers in this command by the ones appearing in the link given previously. Now, you will be able to login into your Cruntch4 account, as well as opening the link for your Jupyter Notebook! 
 
 ## Extra resources that might be helpful: 
