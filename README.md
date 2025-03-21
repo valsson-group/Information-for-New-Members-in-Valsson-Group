@@ -29,36 +29,19 @@ To set up a ssh key for cruntch4, follow the instructions here:
 https://www.ssh.com/academy/ssh/keygen
 
 ## Perform the following tutorials to understand how to navigate in the terminal: 
-### VIM tutorial: 
-    https://openvim.com/  
-### VIM Cheat Sheet:
-    http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
-### Intro to BASH: 
-    https://carpentry.library.ucsb.edu/2022-07-12-ucsb-bash/01-intro/index.html  
-### BASH scripting tutorial: 
-    https://linuxconfig.org/bash-scripting-tutorial  
-
-### Python scripting: 
-    https://education.molssi.org/python_scripting_cms/ 
+- VIM tutorial: https://openvim.com/  
+- VIM Cheat Sheet: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+- Intro to BASH: https://carpentry.library.ucsb.edu/2022-07-12-ucsb-bash/01-intro/index.html  
+- BASH scripting tutorial: https://linuxconfig.org/bash-scripting-tutorial  
+- Python scripting: https://education.molssi.org/python_scripting_cms/ 
 ## How to open a Jupyter Notebook in Cruntch4:
-### Open a Jupyter notebook while logged onto Cruntch4: 
+Open a Jupyter notebook while logged onto Cruntch4: 
 ```
 jupyter notebook --no browser
 ```
 Copy the link given in the terminal.
-### Then, open a different terminal window and use the following command:
+Then, open a different terminal window and use the following command:
 ```
 ssh -L :8888:localhost:8888 cruntch4
 ```
 Replace the '8888' numbers in this command by the ones appearing in the link given previously. Now, you will be able to login into your Cruntch4 account, as well as opening the link for your Jupyter Notebook! 
-
-## Extra resources that might be helpful: 
-
-### Free MolSSI tutorials: 
-    https://education.molssi.org/resources.html#programming  
-### Free Python Course: 
-    https://pll.harvard.edu/course/cs50s-introduction-programming-python  
-### GROMACS Tutorial - Lysozyme in Water: 
-    http://www.mdtutorials.com/gmx/lysozyme/index.html  
-### PLUMED Intro Tutorial:
-    https://www.plumed.org/doc-v2.9/user-doc/html/master-_i_s_d_d-1.html 
