@@ -1,11 +1,10 @@
 # Introductory-Training-for-New-Members-in-Valsson-Group
-## Welcome to Valsson Group! Here are some useful instructions, tutorials, and materials that will be helpful in your research.
+Welcome to Valsson Group! Here are some useful instructions, tutorials, and materials that will be helpful in your research.
 
 
 ## Set your Cruntch4 account:
-### Email Dr. Navneet Khetrapal and to request an account on cruntch4, the high-performance system where we perform our simulations.
-    Navneet.Khetrapal@unt.edu
-### You should let him know you are a new member in our group and send him your UNT EUID as this will be your username on cruntch4. Please, do not forget to cc Dr. Valsson in this email.
+Email Dr. Navneet Khetrapal (Navneet.Khetrapal@unt.edu) to request an account on cruntch4, the high-performance system where we perform our simulations.
+You should let him know you are a new member in our group and send him your UNT EUID as this will be your username on cruntch4. Please, do not forget to cc Dr. Valsson in this email.
 ### To access cruntch4 from your laptop, you need to use a terminal program such as:
 ### Putty (on Windows): 
     https://www.putty.org/ 
@@ -34,10 +33,10 @@
 ## How to open a Jupyter Notebook in Cruntch4:
 ### Open a Jupyter notebook while login o Cruntch4: 
     jupyter notebook --no browser
-### Copy the link given in the terminal.
+Copy the link given in the terminal.
 ### Then, open a different terminal window and use the following command:
     ssh -L :8888:localhost:8888 cruntch4
-### Replace the '8888' numbers in this command by the ones appearing in the link given previously. Now, you will be able to login into your Cruntch4 account, as well as opening the link for your Jupyter Notebook! 
+Replace the '8888' numbers in this command by the ones appearing in the link given previously. Now, you will be able to login into your Cruntch4 account, as well as opening the link for your Jupyter Notebook! 
 
 ## Extra resources that might be helpful: 
 
