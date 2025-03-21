@@ -16,6 +16,14 @@ If you are inside the UNT network, you can connect directly to cruntch4.
 If you are outside the UNT network, you need to connect to the UNT VPN first, see:   
 https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn
 
+Once you have started a terminal, you will use `ssh` to log onto cruntch4:
+```
+ssh <USERNAME>@cruntch4.chem.unt.edu
+```
+where `<USERNAME>` is the user name you are given, should be the same as your UNT EUID. 
+
+If you are logging on for the first time, you must change the password by using `passwd` command.
+
 ### Setting up a ssh key for cruntch4
 To set up a ssh key for cruntch4, follow the instructions here:     
 https://www.ssh.com/academy/ssh/keygen
