@@ -1,5 +1,5 @@
-# Information for New Members in Valsson Group
-Welcome to Valsson Group! Here are some useful instructions, tutorials, and materials that will be helpful in your research.
+# Information for New Members in Valsson Research Group
+Welcome to Valsson Research Group! Here are some valuable instructions, tutorials, and materials that will be helpful in your research.
 
 ## Set your Cruntch4 account:
 Email Dr. Navneet Khetrapal (Navneet.Khetrapal@unt.edu) to request an account on cruntch4, the high-performance system where we perform our simulations.
