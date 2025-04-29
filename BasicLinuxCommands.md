@@ -14,3 +14,4 @@ Some basic commands:
 - `cp -r <PATH-TO-FOLDER> .` - copy folder from `<PATH-TO-FOLDER>` to the current folder.
 - `rm <FILE>` - delete a file.
 - `rm -r <FOLDER>` - delete a folder.
+- `scp -r username@cruntch4.chem.unt.edu:<folder-path-on-cruntch> .` to copy files from cruntch to your personal system folder (the '.' represents the current directory where you want to copy the file (destination)
